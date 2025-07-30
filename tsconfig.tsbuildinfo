@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/composables/useSocialPresets.ts","./src/composables/useUploadcareFiles.ts","./src/composables/useVariants.ts","./src/types/media.ts","./src/utils/imageUrls.ts","./src/App.vue"],"errors":true,"version":"5.8.3"}
